@@ -1,0 +1,3 @@
+Feature: Chat with Expert
+Description: Farmer can chat with an agricultural expert.
+Status: Implemented
