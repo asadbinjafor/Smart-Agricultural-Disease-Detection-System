@@ -1,0 +1,3 @@
+Feature: Accessibility Features
+Description: System provides accessibility support for users.
+Status: Implemented
